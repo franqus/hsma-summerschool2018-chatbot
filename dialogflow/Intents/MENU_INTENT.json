@@ -1,0 +1,316 @@
+{
+  "id": "ecde2747-6e25-4919-9d59-5d9007392e06",
+  "name": "MENU_INTENT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MENU_INTENT-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c6a4d2e5-bce1-4086-8f43-564e597ad997",
+          "required": true,
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        },
+        {
+          "id": "b443b83f-fcc0-4629-8eaf-11185d6585c3",
+          "required": true,
+          "dataType": "@menutype",
+          "name": "menutype",
+          "value": "$menutype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532422908,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ede2c531-f7ff-43c3-b94b-547a44720f58",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "Mittwoch",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " zu "
+        },
+        {
+          "text": "essen",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "7339c14c-53ce-44c6-bd37-d34fae1bcb18",
+      "data": [
+        {
+          "text": "Was gibts beim "
+        },
+        {
+          "text": "Wok",
+          "alias": "menutype",
+          "meta": "@menutype",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "6d9d82e4-b299-426a-9e41-f6f5dbd6641a",
+      "data": [
+        {
+          "text": "Was gibts als "
+        },
+        {
+          "text": "menu 2",
+          "alias": "menutype",
+          "meta": "@menutype",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "9accca14-6fa5-43ee-be7c-6da2fbf5cdb2",
+      "data": [
+        {
+          "text": "Was gibts "
+        },
+        {
+          "text": "am Freitag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " zu "
+        },
+        {
+          "text": "essen",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "2ed529c2-451c-41a1-a6c3-932bb7826797",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "Donnerstag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " als "
+        },
+        {
+          "text": "Dessert",
+          "alias": "menutype",
+          "meta": "@menutype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "45d7a57b-bb14-4be3-9823-4e3accf6bb0b",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "Dienstag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " als "
+        },
+        {
+          "text": "Menu 2",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "166d411c-cf9a-4a36-b4d7-0e375d973b93",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "Dienstag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " als "
+        },
+        {
+          "text": "Menu 1",
+          "alias": "menutype",
+          "meta": "@menutype",
+          "userDefined": true
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "acbfbfa7-90a9-45be-acf2-2185ac3b92b4",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "am Montag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "vegetraisches",
+          "alias": "menutype",
+          "meta": "@menutype",
+          "userDefined": true
+        },
+        {
+          "text": " zu "
+        },
+        {
+          "text": "essen",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    },
+    {
+      "id": "fd85c8cd-a56f-434c-8240-58e05aecd31d",
+      "data": [
+        {
+          "text": "Was gibt es "
+        },
+        {
+          "text": "Montag",
+          "alias": "day",
+          "meta": "@day",
+          "userDefined": false
+        },
+        {
+          "text": " zu "
+        },
+        {
+          "text": "essen",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1532422908,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}

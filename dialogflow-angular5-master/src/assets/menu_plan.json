@@ -1,0 +1,134 @@
+{
+  "cw24"  :  {
+    "monday"  :  {
+      "menu1"  :  "men03",
+      "dessert"  :  "des02",
+      "wok"  :  "wok02",
+      "vegetarian"  :  "veg02",
+      "special"  :  "spec02",
+      "menu2"  :  "men04"
+    },
+    "friday"  :  {
+      "menu1"  :  "men01",
+      "dessert"  :  "des01",
+      "wok"  :  "wok01",
+      "vegetarian"  :  "veg01",
+      "special"  :  "spec01",
+      "menu2"  :  "men02"
+    },
+    "tuesday"  :  {
+      "menu1"  :  "men05",
+      "dessert"  :  "des03",
+      "wok"  :  "wok03",
+      "vegetarian"  :  "veg03",
+      "special"  :  "spec03",
+      "menu2"  :  "men06"
+    },
+    "thursday"  :  {
+      "menu1"  :  "men05",
+      "dessert"  :  "des03",
+      "wok"  :  "wok03",
+      "vegetarian"  :  "veg03",
+      "special"  :  "spec03",
+      "menu2"  :  "men06"
+    },
+    "wednesday"  :  {
+      "menu1"  :  "men05",
+      "dessert"  :  "des03",
+      "wok"  :  "wok03",
+      "vegetarian"  :  "veg03",
+      "special"  :  "spec03",
+      "menu2"  :  "men06"
+    }
+  },
+  "meals"  :  {
+    "men06"  :  {
+      "title"  :  "Bärlauchsuppe , Hirschbraten in Wacholdersauce, Kirschkompott, Bandnudeln, gem. Blattsalat",
+      "price"  :  "4,40€"
+    },
+    "veg02"  :  {
+      "title"  :  "Bärlauchsuppe , Börek mit Käsefüllung, Blattspinat, Dampfkartoffeln",
+      "price"  :  "3,90€"
+    },
+    "men01"  :  {
+      "title"  :  "Couscoussuppe, Hähnchensteak, Schnittlauchsauce, Nudeln, Kohlrabigemüse",
+      "price"  :  "3,00€"
+    },
+    "spec01"  :  {
+      "title" : "Paniertes Schweineschnitzel, Champingon-Rahmsauce, Pommes frites, Blattsalat",
+      "price" : "3,70€"
+    },
+    "men05"  :  {
+      "title"  :  "Couscoussuppe, Hähnchenschnitzel im Knuspermantel, mexikanisches Gemüse, Crazy frites, Eisbergsalat",
+      "price"  :  "3,60€"
+    },
+    "veg01"  :  {
+      "title"  :  "Couscoussuppe, Tortellini verde verdura, Tomatensauce [GlW], gem. Blattsalat",
+      "price"  :  "3,90€"
+    },
+    "spec03"  :  {
+      "title"  :  "Paniertes Schweineschnitzel, Champingon-Rahmsauce, Pommes frites, Blattsalat",
+      "price"  :  "4,40€"
+    },
+    "des04"  :  {
+      "title"  :  "Kokospudding",
+      "price"  :  "0,50€"
+    },
+    "men04"  :  {
+      "title"  :  "Sellerie-Karottencremesuppe, Ribsteak, Barbecuesauce mit Mais und Paprika, Pommes frites, Coleslaw",
+      "price"  :  "3,00€"
+    },
+    "wok03"  :  {
+      "title"  :  "Putenbruststreifen mit Asiagemüse, Currysauce, Basmatireis",
+      "price"  :  "3,90€"
+    },
+    "des03"  :  {
+      "title"  :  "Schokoladenpudding",
+      "price"  :  "0,50€"
+    },
+    "men03"  :  {
+      "title"  :  "Klare Gemüsesuppe mit Backerbsen, Bauernbratwurst, Balsamicojus, Kräuterpüree, bunter Blattsalat",
+      "price"  :  "3,00€"
+    },
+    "men08"  :  {
+      "title"  :  "Sellerie-Karottencremesuppe, Hähnchenbrust auf roten Linsen, Süßkartoffelpüree, Geflügelsauce, gem. Blattsalat",
+      "price"  :  "4,40€"
+    },
+    "veg04"  :  {
+      "title"  :  "Sellerie-Karottencremesuppe, Gnocchipfanne mit buntem Gemüse, Paprikasauce, gem. Blattsalat",
+      "price"  :  "3,90€"
+    },
+    "wok02"  :  {
+      "title"  :  "Schweinefleischstreifen, Erdnußsauce, Basmatireis",
+      "price"  :  "3,90€"
+    },
+    "spec02"  :  {
+      "title"  :  "Currywurst, Pommes frites, gem. Blattsalat",
+      "price"  :  "4,40€"
+    },
+    "des02"  :  {
+      "title"  :  "weißes Schokoladenmousse",
+      "price"  :  "0,50€"
+    },
+    "men07"  :  {
+      "title"  :  "Klare Gemüsesuppe mit Backerbsen, Rheinischer Sauerbraten mit Rosinensauce, Apfelwürfel mit Mandeln, Semmelknödel, Rotkraut oder Blattsalat mit Lollo Rosso",
+      "price"  :  "4,40€"
+    },
+    "veg03"  :  {
+      "title"  :  "Klare Gemüsesuppe mit Backerbsen, Polenta Taschen 'Florentiner Art', buntem Gemüse, Sesam-Dip, Kartoffeln, gemischter Salat",
+      "price"  :  "3,90€"
+    },
+    "men02"  :  {
+      "title"  :  "Bärlauchssuppe, Seelachsfilet mit Sesam, Kräuterdip, Kartoffelsalat, Blattsalat mit Radieschen",
+      "price"  :  "3,00€"
+    },
+    "des01"  :  {
+      "title" : "Eierlikörpudding oder Erdbeerquark",
+      "price" : "0,50€"
+    },
+    "wok01"  :  {
+      "title"  :  "Schweinefleischstreifen, Erdnußsauce oder gebratenes Wokgemüse, scharfe Tomatensauce, Basmatireis",
+      "price"  :  "3,90€"
+    }
+  }
+}

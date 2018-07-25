@@ -1,0 +1,55 @@
+{
+  "id": "a369a84c-48b3-431b-b69a-6416e77b5967",
+  "name": "day",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Monday",
+      "synonyms": [
+        "Montag",
+        "montag",
+        "am Montag",
+        "montags",
+        "moontag"
+      ]
+    },
+    {
+      "value": "Tuesday",
+      "synonyms": [
+        "Dienstag",
+        "dienstag",
+        "am Dienstag",
+        "dienstags"
+      ]
+    },
+    {
+      "value": "Wednesday",
+      "synonyms": [
+        "Mittwoch",
+        "mittwoch",
+        "am Mittwoch",
+        "mittwochs"
+      ]
+    },
+    {
+      "value": "Thursday",
+      "synonyms": [
+        "Donnerstag",
+        "donnerstag",
+        "am Donnerstag",
+        "donnerstags"
+      ]
+    },
+    {
+      "value": "Friday",
+      "synonyms": [
+        "Freitag",
+        "freitag",
+        "am Freitag",
+        "freitags"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

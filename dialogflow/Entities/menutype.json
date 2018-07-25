@@ -1,0 +1,65 @@
+{
+  "id": "543b9a1c-cf0d-4da8-a3e5-9489abcb9e42",
+  "name": "menutype",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Menu1",
+      "synonyms": [
+        "Menu 1",
+        "menu1",
+        "menu 1"
+      ]
+    },
+    {
+      "value": "Menu2",
+      "synonyms": [
+        "Menu 2",
+        "menu2",
+        "menu 2"
+      ]
+    },
+    {
+      "value": "Vegetarian",
+      "synonyms": [
+        "Vegetarian",
+        "Vegetarisch",
+        "vegetarische",
+        "vegetarisches",
+        "veggie"
+      ]
+    },
+    {
+      "value": "Special",
+      "synonyms": [
+        "Special",
+        "Aktionstheke",
+        "spezial",
+        "aktion",
+        "aktionstheke"
+      ]
+    },
+    {
+      "value": "Wok",
+      "synonyms": [
+        "Wok",
+        "wok"
+      ]
+    },
+    {
+      "value": "Dessert",
+      "synonyms": [
+        "Dessert",
+        "dessert"
+      ]
+    },
+    {
+      "value": "vegetraisches",
+      "synonyms": [
+        "vegetraisches"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
